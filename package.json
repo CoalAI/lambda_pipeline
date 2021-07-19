@@ -1,0 +1,28 @@
+{
+  "name": "lambda_pipeline",
+  "version": "1.0.0",
+  "description": "this is for testing purpoe on deployment",
+  "main": "processBenchmarkPollingMongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoalAI/lambda_pipeline.git"
+  },
+  "keywords": [
+    "lambda",
+    "github",
+    "action",
+    "pipeline"
+  ],
+  "author": "Muhammad Kamran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoalAI/lambda_pipeline/issues"
+  },
+  "homepage": "https://github.com/CoalAI/lambda_pipeline#readme",
+  "dependencies": {
+    "mongodb": "^4.0.0"
+  }
+}
